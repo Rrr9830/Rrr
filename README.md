@@ -1,3 +1,3 @@
 # Rrr
-this is my first git reposetry
+this is my first git reposetry.
 Author - Ranjeet Rathod
